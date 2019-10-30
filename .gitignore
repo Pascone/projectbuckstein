@@ -1,0 +1,15 @@
+Assembly-CSharp.csproj
+Library
+.vs
+obj
+Temp
+Assembly-CSharp-Editor.csproj
+
+.vscode
+.vs
+SoundBanks
+*.akd
+*.wem
+*.dat
+*.reapeaks
+*.sln
